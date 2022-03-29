@@ -10,7 +10,11 @@ Louise wanted an analysis to show how campaigns performed in relation to their l
 
 The goal of this project was providing my client, Louise, with two criteria in ensuring a successful Kickstarter campaign in the area of performing arts. These are a preferred launch date and a suggested goal amount. Through analzying over 1000 successful and failed campaigns, ranging back nearly ten years and from less than $1000 to more than $50,000, it is possible to provide suggestions on these two key metrics. 
 
-** Outcomes Based on Category**
+# Outcomes
+
+**Categorical Outcomes**
+
+Louise was interested in performances of theatrical natures such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. 
 ![](images/LouiseParentOutcomes.png)
 
 Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
