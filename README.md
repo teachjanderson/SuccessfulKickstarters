@@ -14,8 +14,17 @@ The goal of this project was providing my client, Louise, with two criteria in e
 
 **Categorical Outcomes**
 
-Louise was interested in performances of theatrical natures such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. 
-![](images/LouiseParentOutcomes.png)
+Louise was interested in performances of theatrical natures such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. The data demonstrated a success rate for theater of nearly 60%. This support Louise in her desire to launch a theatrical campaign. 
+
+<p align="center">
+<img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/LouiseParentOutcomes.png" width="600" />
+
+**Outcomes by Date**
+
+Louise was also interested in the best time of year to launch her campaign. After careful review of the data, May, June, or July had the best success rates throughout the year, with May providing the most successful outcomes with over 100 successful campaigns compared the fall or winter which averaged 60 or fewer successful campaigns. 
+
+<p align="center">
+<img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/OutcomesBasedonLaunch.png" width="600" />
 
 Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 Results: Answer the following questions in complete and coherent sentences.
