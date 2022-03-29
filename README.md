@@ -27,7 +27,24 @@ Louise was also interested in the best time of year to launch her campaign. Afte
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/OutcomesBasedonLaunch.png" width="600" />
   
   **Outcomes by Goal**
-  The goal amount Kickstarters aim to achieve does play a factor in success of the campaign. 
+  
+The goal amount Kickstarters aim to achieve does play a factor in success of the campaign. Based on data found in the Descriptive Statistics tab of the  [Kickstarter Challenge Spreadsheet](https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/Kickstarter_Challenge.xlsx), successful campaigns set a mean goal for $5000 with the median being closer to $3000. Scrolling down to the chart Outcomes Based on Goals reveals Louise will want to carefully select her goal amount to achieve success. Kickstarters with a goal amount of less than $1000 to $5000 have the hichest rate of success. 
+  
+  <p align="center">
+<img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/GoalAmounts.png" width="600" />
+    
+<p align="center">
+<img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/Outcomes_vs_Goals.png" width="600" />
+
+**Recommendations**
+    
+There are three recommendations for Louise to achieve a successful campaign. 
+    
+  1. Theater and play Kickstarters are both successful in the US. The recommendation is to shooce a play Kickstarter. 
+  
+  2. Kickstarters launched in May are more successful than those in other months of the year. The latest the play should be launched is late spring or early summer for most success. 
+  
+  3. The target goal range for success is a key factor and Louise will want to set her goal carefully. A range of $1000-$5000 has the highest history of success. 
 
 Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 Results: Answer the following questions in complete and coherent sentences.
