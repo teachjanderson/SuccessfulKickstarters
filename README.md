@@ -25,6 +25,9 @@ Louise was also interested in the best time of year to launch her campaign. Afte
 
 <p align="center">
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/OutcomesBasedonLaunch.png" width="600" />
+  
+  **Outcomes by Goal**
+  The goal amount Kickstarters aim to achieve does play a factor in success of the campaign. 
 
 Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 Results: Answer the following questions in complete and coherent sentences.
