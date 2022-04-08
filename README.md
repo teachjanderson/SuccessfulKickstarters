@@ -14,21 +14,21 @@ The goal of this project was providing my client, Louise, with two criteria in e
 
 **Categorical Outcomes**
 
-Louise was interested in performances of theatrical nature such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. The data demonstrated a success rate for theater of nearly 60%. This support Louise in her desire to launch a theatrical campaign. One challenge in the data was the location. Much of this analysis focused on successful campaigns in the US, but further analysis could potentially improve or identify other geographical areas which could encounter the same success rates or greater. 
+Louise was interested in performances of theatrical nature such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. The data demonstrated a success rate for theater of nearly 60%. This supports Louise in her desire to launch a theatrical campaign. One challenge in the data was the location. Much of this analysis focused on successful campaigns in the US, but further analysis could potentially improve or identify other geographical areas which could encounter the same success rates or greater. 
 
 <p align="center">
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/LouiseParentOutcomes.png" width="600" />
 
 **Outcomes by Date**
 
-Louise was also interested in the best time of year to launch her campaign. After careful review of the data, May, June, or July had the best success rates throughout the year, with May providing the most successful outcomes with over 100 successful campaigns compared the fall or winter which averaged 60 or fewer successful campaigns. The data displays a steep rise beginning in March, cresting at May, and then gradually falling until September. This suggests preparing in early spring and launching right at May. The worst time for Louise to launch would be the winter months with December at the lowest rate of success. 
+Louise was also interested in the best time of year to launch her campaign. After careful review of the data, May, June, or July provided the best success rates throughout the year. May provided the most successful outcomes with over 100 successful campaigns compared the fall or winter which averaged 60 or fewer successful campaigns. The data displays a steep rise beginning in March, cresting at May, and gradually falling until September. This suggests preparing in early spring and launching in May. The worst time for Louise to launch would be the winter months with December at the lowest rate of success. 
 
 <p align="center">
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/OutcomesBasedonLaunch.png" width="600" />
   
   **Outcomes by Goal**
   
-The goal amount Kickstarters aim to achieve does play a factor in success of the campaign. Based on data found in the Descriptive Statistics tab of the  [Kickstarter Challenge Spreadsheet](https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/Kickstarter_Challenge.xlsx), successful campaigns set a mean goal for $5000 with the median being closer to $3000. Scrolling down to the chart Outcomes Based on Goals reveals Louise will want to carefully select her goal amount to achieve success. Kickstarters with a goal amount of less than $1000 to $5000 have the hichest rate of success. 
+The goal amount Kickstarters aim to achieve does play a factor in success of the campaign. Based on data found in the Descriptive Statistics tab of the  [Kickstarter Challenge Spreadsheet](https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/Kickstarter_Challenge.xlsx), successful campaigns set a mean goal for $5000 with the median being closer to $3000. Scrolling down to the chart Outcomes Based on Goals reveals Louise will want to carefully select her goal amount to achieve success. Kickstarters with a goal amount of less than $1000 to $5000 have the hichest rates of success. 
   
   <p align="center">
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/GoalAmounts.png" width="600" />
@@ -40,9 +40,9 @@ The goal amount Kickstarters aim to achieve does play a factor in success of the
     
 **There are three recommendations for Louise to achieve a successful campaign.** 
     
-  1. Theater and play Kickstarters are both successful in the US. The recommendation is to shooce a play Kickstarter. 
+  1. Theater and play Kickstarters are both successful in the US. The recommendation is to choose a play Kickstarter. 
   
-  2. Kickstarters launched in May are more successful than those in other months of the year. The latest the play should be launched is late spring or early summer for most success. 
+  2. Kickstarters launched in May are more successful than those in other months of the year. The latest recommended launch date is late spring or early summer. 
   
   3. The target goal range for success is a key factor and Louise will want to set her goal carefully. A range of $1000-$5000 has the highest chance of success with the greatest number of Kickstarters demonstrating success.
   
