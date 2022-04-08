@@ -14,7 +14,7 @@ The goal of this project was providing my client, Louise, with two criteria in e
 
 **Categorical Outcomes**
 
-Louise was interested in performances of theatrical natures such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. The data demonstrated a success rate for theater of nearly 60%. This support Louise in her desire to launch a theatrical campaign. One challenge in the data was the location. Much of this analysis focused on successful campaigns in the US, but further analysis could potentially improve or identify other geographical areas which could encounter the same success rates or greater. 
+Louise was interested in performances of theatrical nature such as theater and plays. Fortunately, an initial analysis determined these as some of the most successful campaigns compared to other performance types. The data demonstrated a success rate for theater of nearly 60%. This support Louise in her desire to launch a theatrical campaign. One challenge in the data was the location. Much of this analysis focused on successful campaigns in the US, but further analysis could potentially improve or identify other geographical areas which could encounter the same success rates or greater. 
 
 <p align="center">
 <img src="https://github.com/teachjanderson/SuccessfulKickstarters/blob/main/images/LouiseParentOutcomes.png" width="600" />
